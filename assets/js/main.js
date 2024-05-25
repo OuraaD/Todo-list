@@ -11,7 +11,7 @@ function addTodo() {
         });
 
         const deleteBtn = document.createElement('button');
-        deleteBtn.textContent = 'Delete';
+        deleteBtn.textContent = 'supprimer';
         deleteBtn.classList.add('delete-btn');
         deleteBtn.onclick = function() {
             todoList.removeChild(li);
