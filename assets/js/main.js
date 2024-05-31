@@ -23,4 +23,3 @@ function addTodo() {
     }
 }
 
-// The title is already contenteditable, no need for an additional function.

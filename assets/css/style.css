@@ -36,7 +36,7 @@ h1:hover {
     background-color: #e0ffe0;
 }
 
-.input-group {
+.all-input {
     display: flex;
     margin-bottom: 20px;
 }
